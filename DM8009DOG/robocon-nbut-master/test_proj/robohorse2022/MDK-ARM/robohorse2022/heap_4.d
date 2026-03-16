@@ -1,0 +1,13 @@
+robohorse2022\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+robohorse2022\heap_4.o: D:\ARM\ARMCC\Bin\..\include\stdlib.h
+robohorse2022\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+robohorse2022\heap_4.o: D:\ARM\ARMCC\Bin\..\include\stddef.h
+robohorse2022\heap_4.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+robohorse2022\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+robohorse2022\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+robohorse2022\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+robohorse2022\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+robohorse2022\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+robohorse2022\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+robohorse2022\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+robohorse2022\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

@@ -1,0 +1,14 @@
+robohorse2022\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+robohorse2022\stream_buffer.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+robohorse2022\stream_buffer.o: D:\ARM\ARMCC\Bin\..\include\string.h
+robohorse2022\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+robohorse2022\stream_buffer.o: D:\ARM\ARMCC\Bin\..\include\stddef.h
+robohorse2022\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+robohorse2022\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+robohorse2022\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+robohorse2022\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+robohorse2022\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+robohorse2022\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+robohorse2022\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+robohorse2022\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+robohorse2022\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h
