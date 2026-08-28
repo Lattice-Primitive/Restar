@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "lark": {
+      "command": "lark-mcp",
+      "args": [
+        "mcp",
+        "--app-id", "cli_aadc3d10a238dd22",
+        "--app-secret", "WX9Ze8spGpTyMQNe52OJhhF5rRhCxZiU",
+        "--tools", "preset.default",
+        "--language", "zh",
+        "--token-mode", "user_access_token",
+        "--oauth"
+      ]
+    }
+  }
+}
